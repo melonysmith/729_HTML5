@@ -1,7 +1,7 @@
 <?php
 
 $EmailFrom = "smith.melonya@gmail.com";
-$EmailTo = "smith.melonya@gmail.com";
+$EmailTo = "nikki.gagliardo@729solutions.com";
 $Subject = "729 Solutions Test";
 $fName = Trim(stripslashes($_POST['fName'])); 
 $lName = Trim(stripslashes($_POST['lName'])); 
